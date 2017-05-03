@@ -5,5 +5,5 @@ package com.duan;
  * 2017/5/3 11:00.
  */
 public class TestGit {
-    private String name = "段军";
+    private String name = "段军dev";
 }
